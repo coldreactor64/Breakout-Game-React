@@ -34,7 +34,7 @@ const generateLevels = (columns, rows) => {
 
 export const levelConfiguration = [
     {
-        lives: 5,
+        lives: 3,
         paddleWidth: 2.5,
         speed: 1,
         blocks: generateLevels(6, 4),
@@ -50,7 +50,7 @@ export const levelConfiguration = [
         height: 11,
     },
     {
-        lives: 3,
+        lives: 5,
         paddleWidth: 2.5,
         speed: 1.8,
         blocks: generateLevels(8, 7),
@@ -58,9 +58,9 @@ export const levelConfiguration = [
         height: 11,
     },
     {
-        lives: 3,
+        lives: 6,
         paddleWidth: 2,
-        speed: 1.4,
+        speed: 2.0,
         blocks: generateLevels(9, 11),
         width: 9,
         height: 11,
