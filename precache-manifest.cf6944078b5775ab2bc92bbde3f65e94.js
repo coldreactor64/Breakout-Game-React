@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1df6752b65771efbbed6b8a81b39478d",
+    "revision": "221a8df0337a472ca2e35acda21d3af4",
     "url": "/Breakout-Game-React/index.html"
   },
   {
-    "revision": "ad98376824154f2c044e",
+    "revision": "9d688efd17483827e5b7",
     "url": "/Breakout-Game-React/static/css/main.6735ed0c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Breakout-Game-React/static/js/2.eb186060.chunk.js.LICENSE"
   },
   {
-    "revision": "ad98376824154f2c044e",
-    "url": "/Breakout-Game-React/static/js/main.60dbb24f.chunk.js"
+    "revision": "9d688efd17483827e5b7",
+    "url": "/Breakout-Game-React/static/js/main.59a57bf9.chunk.js"
   },
   {
     "revision": "328d65578d34ed5c08f1",

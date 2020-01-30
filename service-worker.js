@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Breakout-Game-React/precache-manifest.52725eab27035485a63afc1b5ee9204e.js"
+  "/Breakout-Game-React/precache-manifest.cf6944078b5775ab2bc92bbde3f65e94.js"
 );
 
 self.addEventListener('message', (event) => {
