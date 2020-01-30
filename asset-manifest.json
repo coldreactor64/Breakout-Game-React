@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Breakout-Game-React/static/css/main.6735ed0c.chunk.css",
+    "main.js": "/Breakout-Game-React/static/js/main.60dbb24f.chunk.js",
+    "main.js.map": "/Breakout-Game-React/static/js/main.60dbb24f.chunk.js.map",
+    "runtime-main.js": "/Breakout-Game-React/static/js/runtime-main.0b7f8618.js",
+    "runtime-main.js.map": "/Breakout-Game-React/static/js/runtime-main.0b7f8618.js.map",
+    "static/js/2.eb186060.chunk.js": "/Breakout-Game-React/static/js/2.eb186060.chunk.js",
+    "static/js/2.eb186060.chunk.js.map": "/Breakout-Game-React/static/js/2.eb186060.chunk.js.map",
+    "index.html": "/Breakout-Game-React/index.html",
+    "precache-manifest.52725eab27035485a63afc1b5ee9204e.js": "/Breakout-Game-React/precache-manifest.52725eab27035485a63afc1b5ee9204e.js",
+    "service-worker.js": "/Breakout-Game-React/service-worker.js",
+    "static/css/main.6735ed0c.chunk.css.map": "/Breakout-Game-React/static/css/main.6735ed0c.chunk.css.map",
+    "static/js/2.eb186060.chunk.js.LICENSE": "/Breakout-Game-React/static/js/2.eb186060.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b7f8618.js",
+    "static/js/2.eb186060.chunk.js",
+    "static/css/main.6735ed0c.chunk.css",
+    "static/js/main.60dbb24f.chunk.js"
+  ]
+}
