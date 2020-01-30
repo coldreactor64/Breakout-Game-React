@@ -1,6 +1,6 @@
 import React, { useRef, useEffect, useState, useReducer } from 'react'
 import {registerListener} from '../utils'
-import {GameBall, Block, LevelLabel, LivesCounter, Paddle} from './gameComponents'
+import {GameBall, Block, LevelLabel, LivesCounter, Paddle, PointsLabel} from './gameComponents'
 import { levelConfiguration } from '../Engine/levels'
 import { getInitialLevelState, getProjection } from '../Engine/core'
 import {reducer, ACTION} from './state'
@@ -67,6 +67,7 @@ const getSavedLevel = () => {
       projectDistanceReverse,
       oldMousePosition: 0,
       newMousePosition: 0,
+      points: 0,
       time: Date.now(),
       stopTime: undefined,
       movement: undefined

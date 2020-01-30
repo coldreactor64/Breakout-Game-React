@@ -36,7 +36,7 @@ export const levelConfiguration = [
     {
         lives: 3,
         paddleWidth: 2.5,
-        speed: 1,
+        speed: 1.5,
         blocks: generateLevels(6, 4),
         width: 9,
         height: 11,
@@ -44,7 +44,7 @@ export const levelConfiguration = [
     {
         lives: 4,
         paddleWidth: 3,
-        speed: 1.4,
+        speed: 1.5,
         blocks: generateLevels(7, 5),
         width: 9,
         height: 11,

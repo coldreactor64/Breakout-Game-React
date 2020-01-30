@@ -15,6 +15,13 @@ export const LevelLabel = ({level, unit}) => (
     </text>
 )
 
+export const PointsLabel = ({points, unit}) => (
+    <text x={unit} y = {unit * 2} className = 'level'>
+        LEVEL: {level}
+    </text>
+)
+
+
 export const LivesCounter = ({lives, containerWidth, unit}) => {
     const width = unit * 2;
     return getRange(lives).map(i => (
